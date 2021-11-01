@@ -1,0 +1,15 @@
+.intro__button {
+    width: 361px;
+    height: 80px;
+    background-color: #000;
+    border-style: none;
+    border-radius: 24px;
+    font-family: "YandexSansTextRegular-wght600", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.intro__button:hover {
+    color: #ddd;
+}

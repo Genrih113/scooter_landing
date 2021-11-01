@@ -1,0 +1,9 @@
+.rent__step-text {
+    display: block;
+    max-width: 455px;
+    margin: 32px 0 0;
+    font-family: "YandexSansTextRegular-wght-900", Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    line-height: 1.1;
+    font-weight: 900;
+}

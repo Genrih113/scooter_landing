@@ -1,0 +1,36 @@
+@import url('../vendor/normalize.css');
+
+@import url('../vendor/fonts.css');
+
+@import url('../blocks/body/body.css');
+
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__zone/header__zone.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__navigation/header____navigation.css');
+@import url('../blocks/header/__navigation-item/header__navigation-item.css');
+@import url('../blocks/header/__navigation-link/header__navigation-link.css');
+@import url('../blocks/header/__button/header__button.css');
+
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__illustration/intro__illustration.css');
+@import url('../blocks/intro/__img/intro__img.css');
+@import url('../blocks/intro/__title/intro__title.css');
+@import url('../blocks/intro/__button/intro__button.css');
+@import url('../blocks/intro/__attention/intro__attention.css');
+@import url('../blocks/intro/__text-decor/intro__text-decor.css');
+@import url('../blocks/intro/__attention-text/intro__attention-text.css');
+@import url('../blocks/intro/__link/intro__link.css');
+
+@import url('../blocks/rent/rent.css');
+@import url('../blocks/rent/__title/rent__title.css');
+@import url('../blocks/rent/__instruction/rent__instruction.css');
+@import url('../blocks/rent/__steps/rent__steps.css');
+@import url('../blocks/rent/__video/rent__video.css');
+@import url('../blocks/rent/__step/rent__step.css');
+@import url('../blocks/rent/__step-img/rent__step-img.css');
+@import url('../blocks/rent/__step-text/rent__step-text.css');
+@import url('../blocks/rent/__arrow-img/rent__arrow-img.css');
+@import url('../blocks/rent/__result/rent__result.css');
+
+

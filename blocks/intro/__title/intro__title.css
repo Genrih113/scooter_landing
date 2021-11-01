@@ -1,0 +1,11 @@
+.intro__title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: "YandexSansTextRegular-wght-900", Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    line-height: 1.1;
+    font-weight: 900;
+    color: #000;
+    max-width: 548px;
+}
