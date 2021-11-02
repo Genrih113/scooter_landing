@@ -1,0 +1,11 @@
+.ride__instruction {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1013px;
+    min-height: 1515px;
+    background-color: #fff;
+    border-radius: 56px;
+    margin-top: -85px;
+    margin-bottom: -275px;
+    padding: 130px 93px 264px;
+}

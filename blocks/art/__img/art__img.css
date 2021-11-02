@@ -1,0 +1,7 @@
+.art__img {
+    position: absolute;
+    top: 564px;
+    right: calc(50% - 685px);
+    width: 304px;
+    height: 466px;
+}

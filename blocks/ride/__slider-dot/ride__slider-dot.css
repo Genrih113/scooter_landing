@@ -1,0 +1,17 @@
+.ride__slider-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 3px;
+    background-color: #888;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ride__slider-dot:hover {
+    background-color: #444;
+}
+
+.ride__slider-dot_selected {
+    background-color: #21201f;
+}

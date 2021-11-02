@@ -1,0 +1,7 @@
+.ride__slider-line {
+    position: relative;
+    left: 0px;
+    height: 414px;
+    display: flex;
+    transition: all ease 1s;
+}

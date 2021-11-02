@@ -1,0 +1,13 @@
+.ride__video {
+    width: 734px; 
+    height: 414px; 
+    border-radius: 32px; 
+    /* position: absolute; 
+    right: 0; 
+    top: 0;  */
+    border: none;
+
+    /* my styles */
+    margin-left: 370px;
+    
+}

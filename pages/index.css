@@ -33,4 +33,36 @@
 @import url('../blocks/rent/__arrow-img/rent__arrow-img.css');
 @import url('../blocks/rent/__result/rent__result.css');
 
+@import url('../blocks/ride/ride.css');
+@import url('../blocks/ride/__slider/ride__slider.css');
+@import url('../blocks/ride/__slider-line/ride__slider-line.css');
+@import url('../blocks/ride/__video/ride__video.css');
+@import url('../blocks/ride/__slider-dots/ride__slider-dots.css');
+@import url('../blocks/ride/__slider-dot/ride__slider-dot.css');
+@import url('../blocks/ride/__instruction/ride__instruction.css');
+@import url('../blocks/ride/__title/ride__title.css');
+@import url('../blocks/ride/__rules/ride__rules.css');
+@import url('../blocks/ride/__rule/ride__rule.css');
+@import url('../blocks/ride/__rule-icon/ride__rule-icon.css');
+@import url('../blocks/ride/__rule-title/ride__rule-title.css');
+@import url('../blocks/ride/__rule-subtitle/ride__rule-subtitle.css');
+@import url('../blocks/ride/__insurance/ride__insurance.css');
+@import url('../blocks/ride/__insurance-icon/ride__insurance-icon.css');
+@import url('../blocks/ride/__insurance-text/ride__insurance-text.css');
+@import url('../blocks/ride/__insurance-link/ride__insurance-link.css');
 
+@import url('../blocks/art/art.css');
+@import url('../blocks/art/__text-zone/art__text-zone.css');
+@import url('../blocks/art/__title/art__title.css');
+@import url('../blocks/art/__subtitle/art__subtitle.css');
+@import url('../blocks/art/__link/art__link.css');
+@import url('../blocks/art/__text/art__text.css');
+@import url('../blocks/art/__text-img/art__text-img.css');
+@import url('../blocks/art/__img/art__img.css');
+
+@import url('../blocks/where/where.css');
+@import url('../blocks/where/__container/where__container.css');
+@import url('../blocks/where/__content/where__content.css');
+@import url('../blocks/where/__title/where__title.css');
+@import url('../blocks/where/__subtitle/where__subtitle.css');
+@import url('../blocks/where/__map/where__map.css');

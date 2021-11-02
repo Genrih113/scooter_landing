@@ -1,0 +1,12 @@
+.art {
+    position: relative;
+    width: 100%;
+    min-height: 1659px;
+    background-color: #21201f;
+    background-image: url('../../images/art_back.jpeg');
+    /* background-size: contain; */
+    background-size: 1846px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 56px 56px 0 0;
+}
