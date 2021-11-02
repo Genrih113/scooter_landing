@@ -1,0 +1,10 @@
+.download__button {
+    width: 130px;
+    height: 50px;
+    background-color: #ffdf39;
+    border: none;
+    margin-left: 10px;
+    font-family: YS Text,Helvetica,Arial,sans-serif;
+    color: #252525;
+    font-size: 20px;
+}

@@ -66,3 +66,16 @@
 @import url('../blocks/where/__title/where__title.css');
 @import url('../blocks/where/__subtitle/where__subtitle.css');
 @import url('../blocks/where/__map/where__map.css');
+
+@import url('../blocks/download/download.css');
+@import url('../blocks/download/__content/download__content.css');
+@import url('../blocks/download/__title/download__title.css');
+@import url('../blocks/download/__subtitle/download__subtitle.css');
+@import url('../blocks/download/__form/download__form.css');
+@import url('../blocks/download/__input/download__input.css');
+@import url('../blocks/download/__button/download__button.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__content/footer__content.css');
+@import url('../blocks/footer/__span/footer__span.css');
+@import url('../blocks/footer/__link/footer__link.css');

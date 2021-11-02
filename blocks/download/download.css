@@ -1,0 +1,9 @@
+.download {
+    width: 100%;
+    min-height: 705px;
+    background-color: #fff;
+    background-image: url(../../images/download_back.jpeg);
+    background-size: 1106px;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
