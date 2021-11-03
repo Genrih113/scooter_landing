@@ -1,0 +1,9 @@
+.download__plus-span {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.2;
+    position: absolute;
+    top: 12px;
+    left: 10px;
+    z-index: 2;
+}

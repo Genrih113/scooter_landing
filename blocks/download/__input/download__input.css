@@ -1,10 +1,11 @@
 .download__input {
+    box-sizing: border-box;
     width: 197px;
     height: 50px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 20px;
     line-height: 1.2;
-    padding: 0 10px;
+    padding: 0 35px 0 25px;
     border: 1px solid #ccc;
     outline: none;
 }
