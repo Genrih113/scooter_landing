@@ -5,3 +5,10 @@
     font-weight: 900;
     margin: 0 0 72px;
 }
+
+@media (max-width: 800px) {
+    .ride__title {
+        font-size: 32px;
+        margin: 0 0 40px;
+    }
+}

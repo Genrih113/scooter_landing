@@ -3,3 +3,15 @@
     top: 50px;
     left: 390px;
 }
+
+@media (max-width: 920px) {
+    .rent__arrow-img {
+        width: 200px;
+    }
+}
+
+@media (max-width: 800px) {
+    .rent__arrow-img {
+        display: none;
+    }
+}

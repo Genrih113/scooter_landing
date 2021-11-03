@@ -1,6 +1,12 @@
 .download__content {
-    width: 100%;
+    /* width: 100%; */
     max-width: 920px;
     margin: 0 auto;
-    padding-top: 128px;
+    padding: 128px 0px 0px;
+}
+
+@media (max-width: 950px) {
+    .download__content {
+        padding: 20px 15px 0px;
+    }
 }

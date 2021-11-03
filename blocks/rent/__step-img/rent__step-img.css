@@ -1,3 +1,10 @@
 .rent__step-img {
-    
+    height: 112px;
+
+}
+
+@media (max-width: 800px) {
+    .rent__step-img {
+        height: 60px;
+    }
 }

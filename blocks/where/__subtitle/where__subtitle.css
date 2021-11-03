@@ -5,3 +5,15 @@
     color: #21201f;
     margin: 0 0 72px;
 }
+
+@media (max-width: 950px) {
+    .where__subtitle {
+        margin: 0 15px 72px;
+    }
+}
+
+@media (max-width: 800px) {
+    .where__subtitle {
+        font-size: 24px;
+    }
+}

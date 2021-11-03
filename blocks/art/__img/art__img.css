@@ -5,3 +5,15 @@
     width: 304px;
     height: 466px;
 }
+
+@media (max-width: 1440px) {
+    .art__img {
+        right: 0;
+    }
+}
+
+@media (max-width: 1250px) {
+    .art__img {
+        display: none;
+    }
+}

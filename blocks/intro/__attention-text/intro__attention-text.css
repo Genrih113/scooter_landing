@@ -10,3 +10,17 @@
     color: #fff;
     margin: 27px 0;
 }
+
+@media (max-width: 920px) {
+    .intro__attention-text{
+        font-size: 48px;
+        max-width: 550px;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .intro__attention-text {
+        font-size: 36px;
+    }
+}

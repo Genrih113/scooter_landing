@@ -1,4 +1,5 @@
 .footer__span {
+    display: inline-block;
     font-family: "YandexSansTextRegular-wght600", Arial, Helvetica, sans-serif;
     font-size: 13px;
     line-height: 1.3;

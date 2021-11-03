@@ -1,3 +1,10 @@
 .ride__rule-icon {
+    height: 83px;
     margin-bottom: 6px;
+}
+
+@media (max-width: 800px) {
+    .ride__rule-icon {
+        height: 50px;
+    }
 }

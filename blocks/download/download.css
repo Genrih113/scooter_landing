@@ -7,3 +7,10 @@
     background-position: center bottom;
     background-repeat: no-repeat;
 }
+
+@media (max-width: 800px) {
+    .download {
+        background-size: 800px;
+        min-height: 500px;
+    }
+}

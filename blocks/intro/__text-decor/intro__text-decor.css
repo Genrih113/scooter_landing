@@ -1,7 +1,15 @@
 .intro__text-decor {
-    width: 817px;
+    width: 100%;
+    max-width: 817px;
     height: 228px;
     position: absolute;
     top: 0;
     left: 30px;
+}
+
+
+@media (max-width: 920px) {
+    .intro__text-decor {
+        display: none;
+    }
 }

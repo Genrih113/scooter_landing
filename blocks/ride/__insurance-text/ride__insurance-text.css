@@ -5,3 +5,9 @@
     color: #fff;
     margin-top: 10px;
 }
+
+@media (max-width: 800px) {
+    .ride__insurance-text{
+        font-size: 24px;
+    }
+}

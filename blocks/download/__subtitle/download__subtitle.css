@@ -6,3 +6,11 @@
     margin: 0 0 48px;
     max-width: 455px;
 }
+
+@media (max-width: 800px) {
+    .download__subtitle {
+        font-size: 24px;
+        max-width: 400px;
+        text-shadow: 0 0 3px #fff;
+    }
+}

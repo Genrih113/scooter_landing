@@ -4,3 +4,10 @@
     line-height: 1.1;
     margin: 16px 0;
 }
+
+@media (max-width: 800px) {
+    .ride__rule-title {
+        font-size: 24px;
+        margin: 12px 0;
+    }
+}

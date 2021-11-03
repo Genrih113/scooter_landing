@@ -1,3 +1,18 @@
 .rent__video {
-    
+    width: 360px; 
+    height: 720px; 
+    object-fit: fill;
+}
+
+@media (max-width: 800px) {
+    .rent__video {
+        width: 300px;
+        height: 600px;
+    }
+}
+
+@media (max-width: 600px) {
+    .rent__video {
+        display: none;
+    }
 }

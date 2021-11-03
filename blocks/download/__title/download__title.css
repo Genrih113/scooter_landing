@@ -6,3 +6,10 @@
     margin: 0 0 32px;
     max-width: 455px;
 }
+
+@media (max-width: 800px) {
+    .download__title {
+        font-size: 32px;
+        max-width: 400px;
+    }
+}

@@ -3,3 +3,10 @@
     max-width: 362px;
     margin-bottom: 96px;
 }
+
+@media (max-width: 800px) {
+    .ride__rule {
+        margin-bottom: 30px;
+        max-width: 100%;
+    }
+}

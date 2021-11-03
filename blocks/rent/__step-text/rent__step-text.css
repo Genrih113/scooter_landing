@@ -7,3 +7,9 @@
     line-height: 1.1;
     font-weight: 900;
 }
+
+@media (max-width: 920px) {
+    .rent__step-text {
+        font-size: 24px;
+    }    
+}

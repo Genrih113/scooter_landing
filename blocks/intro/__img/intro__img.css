@@ -1,3 +1,10 @@
 .intro__img {
+    width: 100%;
     max-width: 920px;
+}
+
+@media (max-width: 800px) {
+    .into__img {
+        margin-top: 70px;
+    }
 }

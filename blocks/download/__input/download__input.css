@@ -8,6 +8,7 @@
     padding: 0 35px 0 25px;
     border: 1px solid #ccc;
     outline: none;
+    margin: 0 10px 10px 0;
 }
 
 .download__input:focus {

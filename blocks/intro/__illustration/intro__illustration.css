@@ -4,3 +4,15 @@
     padding-top: 150px;
     position: relative;
 }
+
+@media (max-width: 800px) {
+    .intro__illustration {
+        min-height: 500px;
+    }
+}
+
+@media (max-width: 600px) {
+    .intro__illustration {
+        min-height: 320px;
+    }
+}

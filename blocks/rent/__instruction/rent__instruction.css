@@ -3,3 +3,9 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media (max-width: 800px) {
+    .rent__instruction {
+        margin-top: 60px;
+    }
+}

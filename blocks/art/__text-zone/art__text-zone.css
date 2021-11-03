@@ -1,6 +1,13 @@
 .art__text-zone {
+    box-sizing: border-box;
     width: 100%;
-    max-width: 920px;
+    max-width: 950px;
     margin: 0 auto;
-    padding: 370px 0 128px;
+    padding: 370px 15px 128px;
+}
+
+@media (max-width: 800px) {
+    .art__text-zone {
+        padding: 200px 15px 60px;
+    }
 }

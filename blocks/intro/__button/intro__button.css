@@ -1,5 +1,6 @@
 .intro__button {
-    width: 361px;
+    width: 80vw;
+    max-width: 361px;
     height: 80px;
     background-color: #000;
     border-style: none;
@@ -12,4 +13,10 @@
 
 .intro__button:hover {
     color: #ddd;
+}
+
+@media (max-width: 600px) {
+    .intro__button {
+
+    }
 }

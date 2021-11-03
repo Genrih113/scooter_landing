@@ -1,9 +1,16 @@
 .ride__insurance {
-    width: 100%;
+    /* width: 100%; */
     max-width: 475px;
     min-height: 565px;
     padding: 83px;
     background-color: #00ca50;
     border-radius: 56px;
     margin-left: auto;
+}
+
+@media (max-width: 800px) {
+    .ride__insurance {
+        padding: 30px;
+        min-height: 450px;
+    }
 }

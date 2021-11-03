@@ -1,5 +1,12 @@
 .rent {
-    width: 100%;
+    /* width: 100%; */
     max-width: 920px;
     padding-top: 128px;
+}
+
+
+@media (max-width: 920px) {
+    .rent {
+        padding-top: 0;
+    }
 }

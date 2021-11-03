@@ -9,3 +9,10 @@
     color: #000;
     max-width: 548px;
 }
+
+@media (max-width: 600px) {
+    .intro__title {
+        font-size: 24px;
+        max-width: 400px;
+    }
+}
