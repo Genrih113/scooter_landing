@@ -35,6 +35,7 @@
 @import url('../blocks/rent/__result/rent__result.css');
 
 @import url('../blocks/ride/ride.css');
+@import url('../blocks/ride/__content/ride__content.css');
 @import url('../blocks/ride/__slider/ride__slider.css');
 @import url('../blocks/ride/__slider-line/ride__slider-line.css');
 @import url('../blocks/ride/__video/ride__video.css');

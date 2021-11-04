@@ -1,5 +1,8 @@
 .ride__slider {
-    position: relative;
-    height: 450px;
+    position: absolute;
+    height: min(450px, 62vw);
     overflow: hidden;
+    top: min(128px, 17vw);
+    left: 0;
+    width: 100%;
 }

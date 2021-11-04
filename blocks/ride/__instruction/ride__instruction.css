@@ -9,3 +9,9 @@
     margin-bottom: -275px;
     padding: 130px 93px 264px;
 }
+
+@media (max-width: 600px) {
+    .ride__instruction {
+        padding: 130px 15px 264px;
+    }
+}

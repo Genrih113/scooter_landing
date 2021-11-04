@@ -1,7 +1,10 @@
 .ride {
     width: 100%;
+    position: relative;
+
+    /* width: 100%;
     max-width: 1105px;
-    padding: 128px 0 180px;
+    padding: 128px 0 180px; */
 }
 
 /* @media (max-width: 1240px) {

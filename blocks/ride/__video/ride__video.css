@@ -1,6 +1,6 @@
 .ride__video {
     width: 734px; 
-    height: 414px; 
+    /* height: 414px; удалено ради адаптива размера по вертикали*/
     border-radius: 32px; 
     /* position: absolute; 
     right: 0; 
@@ -8,6 +8,6 @@
     border: none;
 
     /* my styles */
-    margin-left: 370px;
+    margin-left: 3000px;
     
 }

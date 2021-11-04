@@ -1,7 +1,6 @@
 .ride__slider-dots {
     position: absolute;
-    right: calc(367px - 98px);
     bottom: 0;
-    /* width: 50px; */
+    left: 0;
     height: 15px;
 }

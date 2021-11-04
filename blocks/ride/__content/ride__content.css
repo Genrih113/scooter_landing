@@ -1,0 +1,6 @@
+.ride__content {
+    margin: 0 auto;
+    max-width: 1105px;
+    padding: 578px 0 180px;
+    padding-top: min(578px, 78vw);
+}

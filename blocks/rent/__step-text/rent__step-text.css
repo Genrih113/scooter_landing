@@ -13,3 +13,9 @@
         font-size: 24px;
     }    
 }
+
+@media (max-width: 600px) {
+    .rent__step-text {
+        margin: 16px 0 0;
+    }
+}

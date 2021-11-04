@@ -19,3 +19,10 @@
         font-size: 24px;
     }
 }
+
+@media (max-width: 600px) {
+    .rent__result {
+        padding: 20px;
+        border-radius: 30px;
+    }
+}

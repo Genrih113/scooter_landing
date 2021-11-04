@@ -5,3 +5,9 @@
 .rent__step:last-of-type {
     position: relative;
 }
+
+@media (max-width: 600px) {
+    .rent__step {
+        margin-bottom: 30px;
+    }
+}

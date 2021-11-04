@@ -1,7 +1,7 @@
 .ride__slider-line {
     position: relative;
     left: 0px;
-    height: 414px;
+    /* height: 414px; удалено ради адаптива размера по вертикали*/
     display: flex;
     transition: all ease 1s;
 }
