@@ -4,3 +4,9 @@
     padding: 578px 0 180px;
     padding-top: min(578px, 78vw);
 }
+
+@media (max-width: 800px) {
+    .ride__content {
+        padding-bottom: 80px;
+    }
+}

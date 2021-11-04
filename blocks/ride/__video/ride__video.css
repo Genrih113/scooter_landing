@@ -9,5 +9,10 @@
 
     /* my styles */
     margin-left: 3000px;
-    
+}
+
+@media (max-width: 600px) {
+    .ride__video {
+        border-radius: 24px;
+    }
 }

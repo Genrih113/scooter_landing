@@ -5,3 +5,10 @@
     top: 110px;
     left: 0px;
 }
+
+@media (max-width: 800px) {
+    .art__text-img {
+        max-width: 600px;
+        top: 30px;
+    }
+}
