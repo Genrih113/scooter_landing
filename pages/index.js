@@ -73,7 +73,7 @@ function autoSlide(arr) {
     dotStartIndex++;
 }
 
-setInterval(() => autoSlide(sliderDotsArr), 20000);
+setInterval(() => autoSlide(sliderDotsArr), 10000);
 
 
 
@@ -113,3 +113,8 @@ telInput.addEventListener('input', (evt) => {
     }
 })
 
+const form = document.querySelector('.download__form');
+form.addEventListener('submit', (evt) => {
+    evt.preventDefault();
+    console.log('default submit prevented');
+})
