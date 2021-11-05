@@ -4,3 +4,9 @@
     margin: 0 auto;
     padding-top: 128px;
 }
+
+@media (max-width: 800px) {
+    .where__content {
+        padding-top: 80px;
+    }
+}

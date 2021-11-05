@@ -7,6 +7,12 @@
 
 @media (max-width: 950px) {
     .download__content {
-        padding: 20px 15px 0px;
+        padding: 128px 15px 0px;
+    }
+}
+
+@media (max-width: 800px) {
+    .download__content {
+        padding: 80px 15px 0px;
     }
 }

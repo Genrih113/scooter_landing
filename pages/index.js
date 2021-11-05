@@ -9,7 +9,7 @@ const telResetButton = document.querySelector('.download__reset');
 
 // логика изменения отступов видео-слайдера при ресайзе окна
 let displayVW = document.documentElement.clientWidth;
-console.log(displayVW);
+// console.log(displayVW);
 
 let videoW = Math.min(734, displayVW);
 let videoMarginLeft;
@@ -26,7 +26,7 @@ if (displayVW >= 734 && displayVW <= 1120) sliderDotsNode.style.left = videoMarg
 if (displayVW > 1120) sliderDotsNode.style.left = (displayVW - 1120)/2 + (1120 - videoW) + videoW/2 - 96 + 'px';
 
 window.addEventListener(`resize`, evt => {
-    console.log('resize');
+    // console.log('resize');
     displayVW = document.documentElement.clientWidth;
     videoW = Math.min(734, displayVW);
     if (displayVW <= 734) videoMarginLeft = 0;
@@ -49,7 +49,7 @@ setTimeout(() => {
         node.style.marginLeft = videoMarginLeft + 'px'
         node.style.width = videoW + 'px';
     });
-    console.log(videoNodes[0].style.marginLeft);
+    // console.log(videoNodes[0].style.marginLeft);
 }, 1000);
 
 

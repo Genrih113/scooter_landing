@@ -5,8 +5,8 @@
 }
 
 
-@media (max-width: 920px) {
+@media (max-width: 800px) {
     .rent {
-        padding-top: 0;
+        padding-top: 80px;
     }
 }
